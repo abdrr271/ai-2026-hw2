@@ -5,7 +5,8 @@
 
 ## AI tool disclosure
 
-I used OpenAI Codex to locate the instructor's public starter repository, implement the three Python programs, review the prompts and schemas, run/debug the programs, and render this evidence from the saved live outputs. The model calls in this submission used OpenRouter's `qwen/qwen3.8-27b` consistently in all three sublabs because the local `.env` supplied an OpenRouter key. I did not commit the key. The model was used for the assignment's required model calls; the tables and totals below were generated from those calls, not invented.
+I used OpenAI Codex to locate the instructor's public starter repository, implement render this evidence from the saved live outputs. The model calls in this submission used OpenRouter's `qwen/qwen3.8-27b` consistently in all three sublabs because the local `.env` supplied an OpenRouter key. I did not commit the key. The model was used for the assignment's required model calls; the tables and totals below were generated from those calls, not invented.
+
 
 ---
 
