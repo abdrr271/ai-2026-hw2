@@ -1,8 +1,6 @@
 # HW2 submission
 
-**Name:** Abdrakhman
-**Student ID:** not provided
-**Group:** not provided
+**Name:** Abdrakhman Rakhmetov
 **Repository:** https://github.com/abdrr271/ai-2026-hw2
 
 ## AI tool disclosure
